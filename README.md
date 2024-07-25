@@ -1,4 +1,4 @@
 # awan-demo
 This is my first Git Respository.
 <br>
-Author - Basit Awan
+Author - Basit Awan (Awan)
